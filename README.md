@@ -2,6 +2,8 @@ thursday from experiment
 
 add testing today, try again today 
 
+update test2 spec, here 
+
 line one (from master) changes here
 line two (from master) changes here
 
