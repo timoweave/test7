@@ -6,6 +6,7 @@ line two (from master) changes here
 2nd line from onelinechange 
 
 merry christmas, from hohoho
+happy new year, from hohoho
 
 3rd line from onelinechange
 4th line from onelinechange
