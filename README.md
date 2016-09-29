@@ -1,6 +1,6 @@
 thursday from experiment
 
-add testing today 
+add testing today, try again today 
 
 line one (from master) changes here
 line two (from master) changes here
